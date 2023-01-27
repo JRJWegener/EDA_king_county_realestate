@@ -1,6 +1,14 @@
-# ds-project-template
+# Exploratory data analysis of King County Real Estate sales 2014/2015
 
-Template for creating ds simple projects
+## Contents
+- The Analysis is split into two notebooks:  
+  - 1_fetching_cleaning_data.ipynb -> importing data from postgres-sql server and - cleaning it up  
+  - 2_eda.ipynb -> data analysis 
+- EDA_presentation.pdf -> presentation of analysis and findings  
+
+- assignment.md -> assignment of tasks  
+- workflow.md -> helpful tips&tricks for the eda  
+- column_names.md -> description of the data
 
 ## Requirements
 
